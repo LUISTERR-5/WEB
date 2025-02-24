@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>LUISEDUARDOTERRAZASHERNANDEZ</title>
+</head>
+<body bgcolor="white" text="blue">
+<table width="100%">
+<tr>
+<td>
+<a href="https://www.prepa2030.com.mx/">
+<img src="imagen/logo1.gif" width="100">
+</a>
+</td>
+<td align="center">
+<a href="https://www.godaddy.com/resources/latam/stories/pagina-web-que-es-tipos">
+<h1>¿Qué es una página web?</h1>
+</a>
+</td>
+</tr>
+</table>
+<img src="web.png" width="400">
+
+
+<p>Una página web es un documento electrónico accesible a través de internet que contiene información organizada y presentada de forma visual.</p>
+
+<p>Las páginas web se utilizan para diversos propósitos, como:</p>
+<ol>
+<li>Proporcionar información.</li>
+<li>Promover productos o servicios.</li>
+<li>Compartir contenido multimedia.</li>
+<li>Interactuar con usuarios.</li>
+<li>Facilitar la comunicación y colaboración en línea.</li>
+</ol>
+<p>Crear una página web puede variar en nivel de complejidad. Hay opciones más sencillas, como los sistemas de gestión de contenido (CMS) que ofrecen plantillas predefinidas y requieren poco conocimiento técnico, y el Creador de Páginas Web de GoDaddy es el máximo exponente de ello. Por otro lado, la creación de una página web desde cero puede ser más complicada, ya que requiere habilidades de programación y diseño. Además, conviene tener claro qué pasos seguir para que la web sea completa, funcional y totalmente útil para el propósito para el que ha sido ideada.</p>
+<table border="1" width="100%" >
+<tr>
+<td align="center">1</td>
+<td>1.1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2.1</td>
+</tr>
+</table>
+<a href="123.docx">Tarea 1</a>
+</body>
+</html>
